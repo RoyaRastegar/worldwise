@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Cabanes",
+      "country": "",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "date": "2023-11-16T13:35:20.322Z",
+      "position": {
+        "lat": "40.14778617839822",
+        "lng": "0.019572675166492637"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "",
+      "emoji": "ES",
+      "notes": "",
+      "date": "2023-11-17T01:33:21.696Z",
+      "position": {
+        "lat": "40.00291016513433",
+        "lng": "-0.027465820312500003"
+      },
+      "id": 98443199
+    }
+  ]
+}
